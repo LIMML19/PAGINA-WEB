@@ -1,0 +1,180 @@
+
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina web Lina</title>
+    <link rel=" https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces">
+    <link rel="shortcut icon" href="img/hancel.markdown-image.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Recursive:slnt,wght,CASL,MONO@-1,410,0.5,0.25&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="#">Inicio</a>
+            <a href="#">Acerca de</a>
+            <a href="#">Portafolio</a>
+            <a href="#">Servicios</a>
+            <a href="#">Contactos</a>
+        </nav>
+        <section class="textos header">
+            <h1>INCHCAPE</h1>
+
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;"> <svg viewBox="0 0 500 150"
+                preserveAspectRatio="none" style="height: 100%; width: 100%;">
+                <path d="M0.00,49.98 C149.99,150.00 351.77,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z"
+                    style="stroke: none; fill: #fff;"></path>
+            </svg></div>
+    </header>
+    <main>
+        <section class="contenedor sobre nosotros">
+            <h2 class="titulo">Nuestro prodcuto</h2>
+            <div class="contendiso-sobre-nosotros">
+                <img src="img/ilustracion2.svg" alt="" class="imagen-about-ust">
+                <div class="contenido-textos">
+                    <h3><span>1</span>Quienes Somos</h3>
+                    <p>Inchcape es el principal distribuidor automotriz multimarca independiente del mundo, con sólidos
+                        fundamentos y significativas oportunidades de crecimiento por delante. Estamos inmersos en un
+                        ambicioso viaje de crecimiento para aportar valor a nuestros empleados, nuestros socios, los
+                        accionistas y las comunidades en las que operamos.</p>
+                    <h3><span>2</span>Asesores</h3>
+                    <p>Nuestra ambición es proporcionar una experiencia de personas consistente y de calidad en todo
+                        nuestro negocio global. Creemos que todos los miembros del equipo de Inchcape deben tener la
+                        misma gran experiencia, independientemente de su función y donde sea que trabajen.</p>
+                </div>
+        </section>
+        <section class="Portafolio">
+            <div class="contenedor">
+                <h2 class="titulo">Portafolio</h2>
+                <div class="galeria-port">
+                    <div class="imagen-port">
+                        <img src="hancel.markdown-image/img/img1.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                        </div>
+                        <div class="image-port">
+                            <img src="hancel.markdown-image/img/img2.jpg" alt="">
+                            <div class="hover-galeria">
+                                <img src="img/icono1.png" alt="">
+                                <p>Nuestro trabajo</p>
+                            </div>
+                        </div>
+                        <div class="galeria-port">
+                            <div class="image-port">
+                                <img src="hancel.markdown-image/img/img3.jpg" alt="">
+                                <div class="hover-galeria">
+                                    <img src="img/icono1.png" alt="">
+                                    <p>Nuestro trabajo</p>
+                                </div>
+                            </div>
+                            <div class="galeria-port">
+                                <div class="image-port">
+                                    <img src="hancel.markdown-image/img/img4.jpg" alt="">
+                                    <div class="hover-galeria">
+                                        <img src="img/icono1.png" alt="">
+                                        <p>Nuestro trabajo</p>
+                                    </div>
+                                </div>
+                                <div class="galeria-port">
+                                    <div class="image-port">
+                                        <img src="hancel.markdown-image/img/img5.jpg" alt="">
+                                        <div class="hover-galeria">
+                                            <img src="img/icono1.png" alt="">
+                                            <p>Nuestro trabajo</p>
+                                        </div>
+                                    </div>
+                                    <div class="galeria-port">
+                                        <div class="image-port">
+                                            <img src="hancel.markdown-image/img/img6.jpg" alt="">
+                                            <div class="hover-galeria">
+                                                <img src="icono1.png" alt="">
+                                                <p>Nuestro trabajo</p>
+                                            </div>
+                                        </div>
+                                        <div class="galeria-port">
+                                            <div class="image-port">
+                                                <img src="hancel.markdown-image/img/img7.jpg" alt="">
+                                                <div class="hover-galeria">
+                                                    <img src="img/icono1.png" alt="">
+                                                    <p>Nuestro trabajo</p>
+                                                </div>
+                                            </div>
+                                            <div class="galeria-port">
+                                                <div class="image-port">
+                                                    <img src="hancel.markdown-image/img/img8.jpg" alt="">
+                                                    <div class="hover-galeria">
+                                                        <img src="img/icono1.png" alt="">
+                                                        <p>Nuestro trabajo</p>
+                                                    </div>
+                                                </div>
+        </section>
+        <section class="clientes contenedor">
+            <h2 class="titulo">Nuestra definición</h2>
+            <div class="cards">
+                <div class="card">
+                    <img src="img/face1.jpg" alt="">
+                    <div class="contenido-texto-card">
+                        <p>Para Inchcape, la movilidad significa pensar más ampliamente que los modelos tradicionales de
+                            propiedad de automóviles: se trata de permitir que las personas y las comunidades accedan al
+                            transporte personal, público y comercial con mayor facilidad.</p>
+                    </div>
+                    <div class="card">
+                        <img src="img/face2.jpg" alt="">
+                        <div class="contenido-texto-card">
+                            <p>Nuestras políticas y el seguimiento y medición del desempeño de nuestros programas de I&D
+                                permiten nuestra cultura inclusiva.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">El valor de la inclusión y la diversidad en Inchcape</h2>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion3.svg" alt="">
+                        <h3>Inclusión en Inchcape</h3>
+                        <p>La inclusión comienza con todos nosotros para garantizar que todos puedan participar
+                            plenamente en nuestro negocio. Asegurar que las personas sientan un sentido de pertenencia,
+                            respetadas y empoderadas para dar lo mejor de sí mismas a través de nuestras acciones,
+                            comportamientos y decisiones.</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion4.svg" alt="">
+                        <h3>Diversidad en Inchcape</h3>
+                        <p>La diversidad es el poder de las diferencias en nuestra gente y el conocimiento, las
+                            habilidades y las perspectivas que aportan. Quiénes somos, nuestra identidad y nuestras
+                            experiencias nos hacen únicos y contribuyen a cómo pensamos y sentimos.</p>
+                    </div>
+                </div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Telefono</h4>
+                <p>6000171</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>6000171</p>
+            </div>
+            <div class="content-foo">
+                <h4>Localizacion</h4>
+                <p>6000171</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; LINAMML Desing │ Lina Montenegro</h2>
+    </footer>
+</body>
+
+</html>
